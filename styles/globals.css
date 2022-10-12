@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "burtons";
+  src: url("../public/Burtons.otf");
+}
+@font-face {
+  font-family: "operatorMono";
+  src: url("../public/OperatorMono-BoldItalic.otf");
+}
+@font-face {
+  font-family: "operatorMonoBold";
+  src: url("../public/OperatorMono-Bold.otf");
+}
+@font-face {
+  font-family: "operatorMonoBook";
+  src: url("../public/OperatorMono-Book.otf");
+}
+@font-face {
+  font-family: "operatorMonoMedium";
+  src: url("../public/OperatorMono-Medium.otf");
+}
