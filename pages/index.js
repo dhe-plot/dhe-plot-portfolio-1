@@ -135,7 +135,7 @@ export default function Home() {
                         
                     <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
                         <div className="basis-1/3 flex-1 ">
-                            <Image
+                            <DHE-PLOT FLYER31 (2).PNG
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
@@ -144,7 +144,7 @@ export default function Home() {
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
-                            <Image
+                            <IMG_20191025_135805.jpg
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
@@ -153,7 +153,7 @@ export default function Home() {
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
-                            <Image
+                            <champions trophy measurement.PNG
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
@@ -162,7 +162,7 @@ export default function Home() {
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
-                            <Image
+                            <DHE-PLOT FLYER3.PNG
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
@@ -171,7 +171,7 @@ export default function Home() {
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
-                            <Image
+                            <DHE-PLOT FLYER4.PNG
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
@@ -180,7 +180,7 @@ export default function Home() {
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
-                            <Image
+                            <DHE-PLOT FLYER32.PNG
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
