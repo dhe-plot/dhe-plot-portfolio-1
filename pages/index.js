@@ -78,7 +78,9 @@ export default function Home() {
                     <div>
                         <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
                         <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                        I run a procurement and creative marketing company with our services spanning - Procurement of Materials, Experiencial Marketing, Digital Marketing, Advisory Services in Marketing and Promotions. We have worked with 
+                        I run a procurement and creative marketing company with our services spanning - 
+                        Procurement of Materials, Experiencial Marketing, Digital Marketing, 
+                        Advisory Services in Marketing and Promotions. We have worked with 
                             <span className="text-teal-500"> agencies </span>
                             consulted for <span className="text-teal-500">startups </span>
                             and collaborated with talanted people to create products for
@@ -94,7 +96,8 @@ export default function Home() {
                                 Procurement Services
                             </h3>
                             <p className="py-2">
-                                Sourcing, design and production of materials for the promotion of brands and gift Items for celeberations i.e Weddings, Naming and birthday celeberations
+                                Sourcing, design and production of materials for the promotion of brands 
+                                and gift Items for celeberations i.e Weddings, Naming and birthday celeberations
                             </p>
                           
                         </div>
@@ -115,8 +118,12 @@ export default function Home() {
                                 Branding & Consulting
                             </h3>
                             <p className="py-2">
-                                Whether it is a new marketing enquiry, an exciting campaign idea or you simply wish to bounce an idea off us: We will be glad to pick our lines
-                                We pay considerable attention to understand the dynamic marketing challenges of our clients. as a strategic partner we provide exceptional services that ensure efficient communication between brands and consumers, to achieve long term marketing goal and also address short-term objectives
+                                Whether it is a new marketing enquiry, an exciting campaign idea or 
+                                you simply wish to bounce an idea off us: We will be glad to pick our lines
+                                We pay considerable attention to understand the dynamic marketing challenges of our clients. 
+                                as a strategic partner we provide exceptional services that ensure efficient communication 
+                                between brands and consumers, to achieve long term marketing goal 
+                                and also address short-term objectives
                             </p>
                            
                         </div>
