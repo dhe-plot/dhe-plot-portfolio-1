@@ -130,10 +130,9 @@ export default function Home() {
                     </div>
                 </section>
                 <section className="py-10">
-                    <div>
+                    
                        
-                        </p>
-                    </div>
+                        
                     <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
                         <div className="basis-1/3 flex-1 ">
                             <Image
