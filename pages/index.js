@@ -78,8 +78,7 @@ export default function Home() {
                     <div>
                         <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
                         <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                        WE ARE A FULL LUXURY SERVICE PROCUREMENT AND CREATIVE MARKETING COMPANY
-                        OUR SERVICE SPANNING - EXPERIENTIAL MARKETING, DIGITAL MARKETING, PROCUREMENT OF PROMOTIONAL MATERIALS AND ADVISORY SERVICES IN MARKETING AND PROmotions We hAve worked with 
+                        I run a procurement and creative marketing company with our services spanning - Procurement of materials, Experiencial marketing, Digital marketing, Advisory services in marketing and Promotions. We hAve worked with 
                             <span className="text-teal-500"> agencies </span>
                             consulted for <span className="text-teal-500">startups </span>
                             and collaborated with talanted people to create products for
@@ -95,14 +94,9 @@ export default function Home() {
                                 Procurement Services
                             </h3>
                             <p className="py-2">
-                                Creating elegant designs suited for your needs following core design
-                                theory.
+                                Sourcing, design and production of materials for the promotion of brands and gift Items for celeberations i.e Weddings, Naming and birthday celeberations
                             </p>
-                            <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-                            <p className="text-gray-800 py-1">Photoshop</p>
-                            <p className="text-gray-800 py-1">Illustrator</p>
-                            <p className="text-gray-800 py-1">Figma</p>
-                            <p className="text-gray-800 py-1">Blender</p>
+                          
                         </div>
                         <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white flex-1">
                             <Image src={code} width={100} height={100} />
@@ -110,15 +104,10 @@ export default function Home() {
                                 Promotion Services
                             </h3>
                             <p className="py-2">
-                                Do you have an idea for your next great website? Let's make it a
+                                Do you have an idea for your next great campaign? Let's make it a
                                 reality.
                             </p>
-                            <h4 className="py-4 text-teal-600">
-                                Programming Language & Frameworks
-                            </h4>
-                            <p className="text-gray-800 py-1">React / Next</p>
-                            <p className="text-gray-800 py-1">Node / Express</p>
-                            <p className="text-gray-800 py-1">Solidity / EVM</p>
+                           
                         </div>
                         <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white flex-1">
                             <Image src={consulting} width={100} height={100} />
@@ -126,31 +115,16 @@ export default function Home() {
                                 Branding & Consulting
                             </h3>
                             <p className="py-2">
-                                Are you interested in feedback for your current project? I can give
-                                you tips and tricks to level it up.
+                                Whether it is a new marketing enquiry, an exciting campaign idea or you simply wish to bounce an idea off us: We will be glad to pick our lines
+                                We pay considerable attention to understand the dynamic marketing challenges of our clients. as a strategic partner we provide exceptional services that ensure efficient communication between brands and consumers, to achieve long term marketing goal and also address short-term objectives
                             </p>
-                            <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-                            <p className="text-gray-800 py-1">Word</p>
-                            <p className="text-gray-800 py-1">Excel</p>
-                            <p className="text-gray-800 py-1">Power Point</p>
-                            <p className="text-gray-800 py-1">Notion</p>
+                           
                         </div>
                     </div>
                 </section>
                 <section className="py-10">
                     <div>
-                        <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
-                        <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                            Since the beginning of my journey as a freelance designer and developer,
-                            I've done remote work for
-                            <span className="text-teal-500"> agencies </span>
-                            consulted for <span className="text-teal-500">startups </span>
-                            and collaborated with talanted people to create digital products for
-                            both business and consumer use.
-                        </p>
-                        <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                            I offer from a wide range of services, including brand design,
-                            programming and teaching.
+                       
                         </p>
                     </div>
                     <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
