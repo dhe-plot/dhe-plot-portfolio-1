@@ -151,6 +151,7 @@ export default function Home() {
                                 height={"100%"}
                                 layout="responsive"
                                 src={flier3.PNG}
+
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
@@ -159,7 +160,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={web3}
+                                src={flier4.PNG}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
