@@ -169,7 +169,7 @@ export default function Home() {
                                 src={flier4}
                             />
                         </div>
-                        <div className="basis-1/3 flex-1">
+                        {/* <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
                                 width={"40%"}
@@ -177,7 +177,7 @@ export default function Home() {
                                 layout="responsive"
                                 src={flier6}
                             />
-                        </div>
+                        </div> */}
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
