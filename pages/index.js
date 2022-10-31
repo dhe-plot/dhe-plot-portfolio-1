@@ -47,9 +47,9 @@ export default function Home() {
                             <li>
                                 <a
                                     className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8 gumroad-button"
-                                    href="https://dayoganiyu.gumroad.com/l/ffqutt"
+                                    href="https://dayoganiyu.gumroad.com/l/ffqutt" data-gumroad-overlay-checkout="true"
                                 >
-                                    Buy My eBook
+                                    
                                 </a>
                             </li>
                         </ul>
