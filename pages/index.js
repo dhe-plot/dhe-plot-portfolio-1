@@ -130,7 +130,7 @@ export default function Home() {
                         </div>
                        </div>
                 </section>
-                <section className="py-10">
+                <section className="py-10 grid">
                  
                     <div className="basis-1/3 flex-1 ">
                             <Image
