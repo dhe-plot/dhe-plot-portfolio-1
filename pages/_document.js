@@ -12,6 +12,7 @@ export default function Document() {
       <body className="font-poppins">
         <Main />
         <NextScript />
+        <script src="https://gumroad.com/js/gumroad.js"></script>
       </body>
     </Html>
   );
