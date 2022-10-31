@@ -135,8 +135,8 @@ export default function Home() {
                     <div className="basis-1/3 flex-1 ">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier0}
 
@@ -145,8 +145,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier2}
                             />
@@ -154,8 +154,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier3}
                             />
@@ -163,8 +163,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier4}
                             />
@@ -172,8 +172,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier6}
                             />
@@ -181,8 +181,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier7}
                             />
@@ -190,8 +190,8 @@ export default function Home() {
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
-                                width={"100%"}
-                                height={"100%"}
+                                width={"40%"}
+                                height={"40%"}
                                 layout="responsive"
                                 src={flier8}
                                 />
