@@ -141,7 +141,7 @@ export default function Home() {
                                 src={flier0}
 
                             />
-                            </div>
+                    </div>
                         <div className="basis-1/3 flex-1">
                             <Image
                                 className="rounded-lg object-cover"
@@ -194,6 +194,8 @@ export default function Home() {
                                 height={"100%"}
                                 layout="responsive"
                                 src={flier8}
+                                />
+                                
                     </div>
                 </section>
             </main>
