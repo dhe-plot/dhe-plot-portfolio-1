@@ -140,7 +140,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={flier2}
+                                src={flier2.png}
 
                             />
                             </div>
@@ -150,7 +150,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={flier3}
+                                src={flier3.png}
 
                             />
                         </div>
@@ -160,7 +160,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={flier4}
+                                src={flier4.png}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
