@@ -128,20 +128,17 @@ export default function Home() {
                             </p>
                            
                         </div>
-                    </div>
+                       </div>
                 </section>
                 <section className="py-10">
-                    
-                       
-                        
-
-                        <div className="basis-1/3 flex-1 ">
+                 
+                    <div className="basis-1/3 flex-1 ">
                             <Image
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={fllier0}
+                                src={flier0}
 
                             />
                             </div>
