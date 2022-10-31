@@ -47,7 +47,7 @@ export default function Home() {
                             <li>
                                 <a
                                     className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                                    href="https://www.dhe-plot.company.site/"
+                                    href="https://dayoganiyu.gumroad.com/l/ffqutt"
                                 >
                                     Buy My eBook
                                 </a>
