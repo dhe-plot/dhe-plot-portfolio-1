@@ -7,12 +7,13 @@ import code from "../public/code.png"
 import design from "../public/design.png"
 import consulting from "../public/consulting.png"
 import Image from "next/image"
-import fliest from "../public/fliest.png"
-import web2 from "../public/web2.png"
-import web3 from "../public/web3.png"
-import web4 from "../public/web4.png"
-import web5 from "../public/web5.png"
-import web6 from "../public/web6.png"
+import flier0 from "../public/flier0.jpg"
+import flier2 from "../public/flier2.png"
+import flier3 from "../public/flier3.png"
+import flier4 from "../public/flier4.png"
+import flier6 from "../public/flier6.png"
+import flier7 from "../public/flier7.png"
+import flier8 from "../public/flier8.png"
 
 export default function Home() {
     const [darkMode, setDarkMode] = useState(false)
@@ -133,14 +134,14 @@ export default function Home() {
                     
                        
                         
-                    <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
+
                         <div className="basis-1/3 flex-1 ">
                             <Image
                                 className="rounded-lg object-cover"
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={fliest}
+                                src={fllier0}
 
                             />
                             </div>
@@ -150,7 +151,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={fliest}
+                                src={flier2}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
@@ -159,7 +160,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={web3}
+                                src={flier3}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
@@ -168,7 +169,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={web4}
+                                src={flier4}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
@@ -177,7 +178,7 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={web5}
+                                src={flier6}
                             />
                         </div>
                         <div className="basis-1/3 flex-1">
@@ -186,9 +187,16 @@ export default function Home() {
                                 width={"100%"}
                                 height={"100%"}
                                 layout="responsive"
-                                src={web6}
+                                src={flier7}
                             />
                         </div>
+                        <div className="basis-1/3 flex-1">
+                            <Image
+                                className="rounded-lg object-cover"
+                                width={"100%"}
+                                height={"100%"}
+                                layout="responsive"
+                                src={flier8}
                     </div>
                 </section>
             </main>
