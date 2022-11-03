@@ -44,14 +44,14 @@ export default function Home() {
                                     Website
                                 </a>
                             </li>
-                            {/* <li>
+                            <li>
                                 <a
                                     className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8 gumroad-button"
                                     href="https://dayoganiyu.gumroad.com/l/ffqutt" data-gumroad-overlay-checkout="true"
                                 >
                                     Buy ebook on
                                 </a>
-                            </li> */}
+                            </li>
                         </ul>
                     </nav>
                     <div className="text-center p-10 py-10">
