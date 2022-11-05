@@ -47,10 +47,10 @@ export default function Home() {
                         </ul>
                     </nav>
                     <div className="text-center p-10 py-10">
-                        <h2 className="text-5xl py-2 font-operatorMono text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
+                        <h2 className="text-6xl py-2 font-operatorMono text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
                             DAYO GANIYU
                         </h2>
-                        <h3 className="text-2xl py-2 dark:text-white md:text-3xl">
+                        <h3 className="text-4xl py-2 dark:text-white md:text-3xl">
                             Procurement & Creative Marketer
                         </h3>
                         <p className="text-xl py-5 leading-8 text-gray-700 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
@@ -77,7 +77,7 @@ export default function Home() {
                 </section>
                 <section>
                     <div>
-                        <h3 className="text-5xl py-1 dark:text-white ">Services I offer</h3>
+                        <h3 className="text-4xl py-1 dark:text-white ">Services I offer</h3>
                         <p className="text-xl py-2 leading-8 text-gray-800 dark:text-gray-200">
                         I run a procurement and creative marketing company with our services spanning - 
                         Procurement of Materials, Experiencial Marketing, Digital Marketing, 
