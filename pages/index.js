@@ -2,7 +2,7 @@ import Head from "next/head"
 import { AiFillTwitterCircle, AiFillLinkedin, AiFillInstagram } from "react-icons/ai"
 import { BsFillMoonStarsFill } from "react-icons/bs"
 import { useState } from "react"
-import deved from "../public/dev-ed-wave.png"
+import deved from "../public/dev-ed-wave.jpg"
 import code from "../public/code.png"
 import design from "../public/design.png"
 import consulting from "../public/consulting.png"
@@ -44,14 +44,6 @@ export default function Home() {
                                     Website
                                 </a>
                             </li>
-                            {/* <li>
-                                <a
-                                    className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8 gumroad-button"
-                                    href="https://dayoganiyu.gumroad.com/l/ffqutt" data-gumroad-overlay-checkout="true"
-                                >
-                                    Buy ebook
-                                </a>
-                            </li> */}
                         </ul>
                     </nav>
                     <div className="text-center p-10 py-10">
