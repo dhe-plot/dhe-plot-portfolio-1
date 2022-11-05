@@ -53,7 +53,7 @@ export default function Home() {
                         <h3 className="text-2xl py-2 dark:text-white md:text-3xl">
                             Procurement & Creative Marketer
                         </h3>
-                        <p className="text-md py-5 leading-8 text-gray-700 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
+                        <p className="text-2xl py-5 leading-8 text-gray-700 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
                         Providing marketing services with expertise in procurements of goods and market strategy formulation
                         Join me lets brand and Improve your business while leveraging on new technology
                     
